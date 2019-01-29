@@ -22,7 +22,7 @@ SA: Saturday
 SU: Sunday
 
 
-##Testing
+## Testing
 
 Input: the name of an employee and the schedule they worked, indicating the time and hours. This should be a .txt file with at least five sets of data.
 Output: indicate how much the employee has to be paid
