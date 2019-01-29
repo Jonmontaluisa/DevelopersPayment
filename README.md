@@ -3,7 +3,7 @@ DevelopersPayment calculate the salary a developer should receive based on the h
 
 ## Specs provided by ioet
 
-The company ACME offers their employees the flexibility to work the hours they want. They will pay for the hours worked based on the day of the week and time of day, according to the following table:
+The company ACME offers their employees the flexibility to work the hours they want. They will pay for the hours worked based on the day of the week and time of day, according to the following table: <br/>
 Monday - Friday
 00:01 - 09:00 25 USD
 09:01 - 18:00 15 USD
